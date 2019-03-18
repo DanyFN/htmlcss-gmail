@@ -14,3 +14,23 @@ header > span{
   font-size: 30px;
   color: white;
 }
+
+.titolo{
+  font-size: 50px;
+  color: white;
+  }
+
+.cerchio{
+  background-color: blue;
+  border-radius: 50%;
+  }
+.emailcontainer{
+  border: 1px dotted black;
+
+}
+.email{
+background-color: white;
+}
+.email2{
+  background-color: blue;
+}
